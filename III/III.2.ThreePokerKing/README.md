@@ -1,0 +1,1 @@
+g++ .\main.cpp .\Validacion.cpp -o Nreinas
