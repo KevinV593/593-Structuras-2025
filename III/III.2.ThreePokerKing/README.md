@@ -1,1 +1,1 @@
-g++ .\main.cpp .\Validacion.cpp -o Nreinas
+g++ main.cpp Validacion.cpp -o cartas.exe
