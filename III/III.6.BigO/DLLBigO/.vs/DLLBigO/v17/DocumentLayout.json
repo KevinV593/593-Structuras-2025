@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documentos\\28437_Estructura_De_Datos\\DLLBigO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75729FBE-5871-4A67-B875-F6E4061AC485}|DLLBigO\\DLLBigO.vcxproj|C:\\Users\\User\\OneDrive\\Documentos\\28437_Estructura_De_Datos\\DLLBigO\\DLLBigO\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75729FBE-5871-4A67-B875-F6E4061AC485}|DLLBigO\\DLLBigO.vcxproj|solutionrelative:DLLBigO\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75729FBE-5871-4A67-B875-F6E4061AC485}|DLLBigO\\DLLBigO.vcxproj|C:\\Users\\User\\OneDrive\\Documentos\\28437_Estructura_De_Datos\\DLLBigO\\DLLBigO\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75729FBE-5871-4A67-B875-F6E4061AC485}|DLLBigO\\DLLBigO.vcxproj|solutionrelative:DLLBigO\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75729FBE-5871-4A67-B875-F6E4061AC485}|DLLBigO\\DLLBigO.vcxproj|C:\\Users\\User\\OneDrive\\Documentos\\28437_Estructura_De_Datos\\DLLBigO\\DLLBigO\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75729FBE-5871-4A67-B875-F6E4061AC485}|DLLBigO\\DLLBigO.vcxproj|solutionrelative:DLLBigO\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75729FBE-5871-4A67-B875-F6E4061AC485}|DLLBigO\\DLLBigO.vcxproj|C:\\Users\\User\\OneDrive\\Documentos\\28437_Estructura_De_Datos\\DLLBigO\\DLLBigO\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75729FBE-5871-4A67-B875-F6E4061AC485}|DLLBigO\\DLLBigO.vcxproj|solutionrelative:DLLBigO\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\28437_Estructura_De_Datos\\DLLBigO\\DLLBigO\\pch.h",
+              "RelativeDocumentMoniker": "DLLBigO\\pch.h",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\28437_Estructura_De_Datos\\DLLBigO\\DLLBigO\\pch.h",
+              "RelativeToolTip": "DLLBigO\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-23T02:09:55.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\28437_Estructura_De_Datos\\DLLBigO\\DLLBigO\\pch.cpp",
+              "RelativeDocumentMoniker": "DLLBigO\\pch.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\28437_Estructura_De_Datos\\DLLBigO\\DLLBigO\\pch.cpp",
+              "RelativeToolTip": "DLLBigO\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-23T02:09:47.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\28437_Estructura_De_Datos\\DLLBigO\\DLLBigO\\framework.h",
+              "RelativeDocumentMoniker": "DLLBigO\\framework.h",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\28437_Estructura_De_Datos\\DLLBigO\\DLLBigO\\framework.h",
+              "RelativeToolTip": "DLLBigO\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-23T02:09:35.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\28437_Estructura_De_Datos\\DLLBigO\\DLLBigO\\dllmain.cpp",
+              "RelativeDocumentMoniker": "DLLBigO\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\28437_Estructura_De_Datos\\DLLBigO\\DLLBigO\\dllmain.cpp",
+              "RelativeToolTip": "DLLBigO\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-23T01:44:47.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
