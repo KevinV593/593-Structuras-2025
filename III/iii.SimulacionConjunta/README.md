@@ -1,0 +1,1 @@
+g++ -std=c++17 -o programa.exe main.cpp controller/Controlador.cpp view/Vista.cpp
