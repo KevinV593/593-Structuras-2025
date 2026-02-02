@@ -19,7 +19,6 @@ bool Cola::estaVacia() {
 }
 
 void Cola::encolar(Nodo* n) {
-    // IMPORTANTE: n->siguiente debe ser null al entrar
     n->siguiente = nullptr; 
     
     if (estaVacia()) {

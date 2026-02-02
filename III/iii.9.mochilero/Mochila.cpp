@@ -9,9 +9,8 @@ Mochila::Mochila(int capacidad, int n) {
     numObjetos = n;
     // 1. Crear arreglo de objetos
     listaObjetos = new Objeto[numObjetos];
-
+    
     // 2. Crear la Matriz Dinámica (Filas = Objetos + 1, Cols = Capacidad + 1)
-    // Necesitamos +1 porque la fila/columna 0 representa "0 objetos" o "0 capacidad"
     tabla = new int*[numObjetos + 1];
     for (int i = 0; i <= numObjetos; i++) {
         tabla[i] = new int[capacidadMax + 1];

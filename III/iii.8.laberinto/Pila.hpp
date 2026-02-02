@@ -1,9 +1,8 @@
-#ifndef PILA_H
-#define PILA_H
+#ifndef PILA_HPP
+#define PILA_HPP
 
 #include "Coordenada.hpp"
 
-// Nodo para la lista enlazada interna de la pila
 struct NodoPila {
     Coordenada dato;
     NodoPila* siguiente;
